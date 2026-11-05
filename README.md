@@ -24,17 +24,10 @@ Se debe desarrollar una aplicación que permita mostrar variedades de café disp
 
 La vista debe hacerse con el selector del componente y el resultado final debe verse lo más parecido a la Fig. 1.
 
-![Figura 1](image.png)
-Figura 1. Despliegue del listado de los cafés
-02615 MISW-4104 Evaluación Práctica Angular
-
 ### Punto No. 2 (10%)
 
 Modifique el componente de listar para incluir dos párrafos que muestren el número de variedades de café por tipo proporcionadas por el listado (la tienda ofrece café de origen y café blend). Este número debe ser calculado ya que no se conoce a priori.
 El resultado debe verse lo más parecido a la Fig. 2:
-
-![Figura 2](image-1.png)
-Figura 2. Modificación del componente para listar cafés
 
 ### Punto No. 3 (20%)
 
