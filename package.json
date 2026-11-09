@@ -26,6 +26,7 @@
     "@angular/build": "^21.2.27",
     "@angular/cli": "^21.2.27",
     "@angular/compiler-cli": "^21.2.0",
+    "@faker-js/faker": "^10.6.0",
     "@types/jasmine": "~6.0.0",
     "jasmine-core": "~6.0.0",
     "karma": "~6.4.0",

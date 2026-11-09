@@ -2,6 +2,11 @@
   font-size: 18px;
 }
 
+.table-dark {
+  --bs-table-bg: #333a40;
+  --bs-table-border-color: #333a40;
+}
+
 .total {
   font-size: 20px;
 }
