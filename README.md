@@ -19,7 +19,7 @@ Se debe desarrollar una aplicación que permita mostrar variedades de café disp
 
 - Un módulo para cafés (10%)
 - Una clase Cafe con todos los atributos que le permita manejar los datos de una variedad de café (20%)
-- Un servicio que utiliza http para obtener de esta URL un conjunto de datos de cafés (20%). https://gist.githubusercontent.com/josejbocanegra/e9d24db370ce95b75555f7d1f 8691805/raw/8a26ac2bca4183dc88545e14c45851d698911358/202212_MISW410 4_Grupo3.json
+- Un servicio que utiliza http para obtener de esta [URL](https://gist.githubusercontent.com/josejbocanegra/e9d24db370ce95b75555f7d1f8691805/raw/8a26ac2bca4183dc88545e14c45851d698911358/202212_MISW4104_Grupo3.json) un conjunto de datos de cafés (20%). 
 - Un componente de listar café que presentará en una tabla de Bootstrap los datos del café (nombre, tipo y región) (20%).
 
 La vista debe hacerse con el selector del componente y el resultado final debe verse lo más parecido a la Fig. 1.
