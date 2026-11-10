@@ -1,18 +1,39 @@
+.pagina {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.encabezado {
+  padding: 29px 1.94% 0 11.67%;
+}
+
 .titulo {
   font-family: 'Inder', sans-serif;
   font-size: 36px;
   font-weight: 400;
+  margin-bottom: 17px;
+}
+
+.linea {
+  margin: 0 0 17px;
 }
 
 .banner {
-  width: 100%;
-  max-width: 1066px;
-  aspect-ratio: 1066 / 293;
+  display: block;
+  width: 85.8%;
+  aspect-ratio: 1067 / 294;
   object-fit: cover;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* La tabla y los totales empiezan a 98px del borde izquierdo y miden 792px */
+.contenido {
+  padding: 48px 0 0 6.8%;
+  width: 61.8%;
 }
 
 footer {
   font-family: 'Inria Sans', sans-serif;
   font-size: 18px;
+  padding: 50px 0 40px;
 }
